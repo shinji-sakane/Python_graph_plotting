@@ -59,7 +59,7 @@ Encoding  = "utf-8"
 outputfile = "./1D_data.png"
 ```
 
-Output
+## Output
 The generated figure is saved as a PNG file:
 - File name: 1D_data.png
 - Location: repository root (default)
