@@ -5,10 +5,6 @@ Example code and utilities for scientific plotting with Python and matplotlib
 This repository provides example Python scripts for reading numerical data from text file
 and generating scientific graph using matplotlib.
 
-<!-- ![Example output figure](./1D_data.png)  -->
-<p>
-  <img src="./1D_data.png" width="450">
-</p>
 
 ## Requirements
 - Python 3.x
